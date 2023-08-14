@@ -30,6 +30,12 @@ That's why I like to make things that make a difference.
 <a href="https://www.facebook.com/om.nigam.7146" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=“Om “Nigam height="30" width="40" /></a>
 &nbsp;
 
+### Visitor's Count:
+<a align="center" href="https://profile-counter.glitch.me/{shubhi182001}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{omi1804}/count.svg)  
+</a>
+
 
 ## 🛠️ My Favorite Tools
 
@@ -73,16 +79,10 @@ That's why I like to make things that make a difference.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-<h2> 📍 &nbsp;Visitor's Count:</h2>
-<a align="center" href="https://profile-counter.glitch.me/{shubhi182001}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{omi1804}/count.svg)  
-</a>
 
-<img align="left" alt="Coding" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="320" height="380">
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omi1804&" alt="omi1804" /></p>
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omi1804&show_icons=true&locale=en&layout=compact" alt="omi1804"></p>
 
+
+## Github Activity:
 <table>
   <tr>
     <td width="50%">
@@ -93,7 +93,6 @@ That's why I like to make things that make a difference.
     </td>
   </tr>
   <tr>
-<!--     <td></td> -->
           <td><img src="https://github-readme-stats.vercel.app/api?username=omi1804&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=omi1804&theme=tokyonight" width="100%">
