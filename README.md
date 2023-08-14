@@ -85,16 +85,22 @@ That's why I like to make things that make a difference.
 
 <table>
   <tr>
-    <td><img align="left" alt="Coding" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="auto" height="auto"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omi1804&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=omi1804&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=omi1804&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-   <td>
-  </td>
+    <td width="50%">
+        <img align="left" alt="Coding" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="100%">
+    </td>
+    <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omi1804&theme=radical&layout=compact&hide=Jupyter%20Notebook" width="100%">
+    </td>
+  </tr>
+  <tr>
+<!--     <td></td> -->
+          <td><img src="https://github-readme-stats.vercel.app/api?username=omi1804&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=omi1804&theme=tokyonight" width="100%">
+    </td>
   </tr>
 </table>
+
 
 
 
