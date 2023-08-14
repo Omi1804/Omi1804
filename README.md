@@ -1,5 +1,4 @@
-# Welcome to [Om Nigam’s](https://om-nigam.netlify.app/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=omi1804&label=Profile%20views&color=0e75b6&style=flat" alt="omi1804" /> </p>
+# Welcome to [Om Nigam’s](https://om-nigam.netlify.app/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
 I am a full-stack MERN software developer. I love programming, reading, writing, and speaking.
