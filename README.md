@@ -73,9 +73,28 @@ That's why I like to make things that make a difference.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
+<h2> 📍 &nbsp;Visitor's Count:</h2>
+<a align="center" href="https://profile-counter.glitch.me/{shubhi182001}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{omi1804}/count.svg)  
+</a>
+
 <img align="left" alt="Coding" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="320" height="380">
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omi1804&" alt="omi1804" /></p>
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omi1804&show_icons=true&locale=en&layout=compact" alt="omi1804"></p>
+
+<table>
+  <tr>
+    <td><img align="left" alt="Coding" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="auto" height="auto"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omi1804&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=omi1804&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=omi1804&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+   <td>
+  </td>
+  </tr>
+</table>
 
 
 
