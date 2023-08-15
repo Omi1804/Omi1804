@@ -21,7 +21,7 @@ That's why I like to make things that make a difference.
 
 ## Glad to see you here!
 
-### Connect with me:
+### Connect with me :
 <h3 align="left"></h3>
 <a href="https://www.linkedin.com/in/om-nigam-64247323b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=“Om Nigam” height="30" width="40" /></a>
 &nbsp;
@@ -30,7 +30,7 @@ That's why I like to make things that make a difference.
 <a href="https://www.facebook.com/om.nigam.7146" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=“Om “Nigam height="30" width="40" /></a>
 &nbsp;
 
-### Visitor's Count:
+### Visitor's Count :
 <a align="center" href="https://profile-counter.glitch.me/{shubhi182001}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{omi1804}/count.svg)  
@@ -82,7 +82,7 @@ That's why I like to make things that make a difference.
 
 
 
-## Github Activity:
+## Github Activity :
 <table>
   <tr>
     <td width="50%">
