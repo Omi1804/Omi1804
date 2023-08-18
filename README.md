@@ -101,9 +101,9 @@ That's why I like to make things that make a difference.
 </table>
 
 
-
-
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
