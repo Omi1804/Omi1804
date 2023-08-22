@@ -11,7 +11,7 @@ That's why I like to make things that make a difference.
 
 ## Talking about Personal Stuffs
 
-- 🔭 I’m currently working on **AI Based Chat System**.
+- 🔭 I’m currently working on **The Adz Plug**.
 - 🌱 I’m currently learning **React Native, TypeScript, System Design**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://om-nigam.netlify.app)**
 - 💬 Ask me about **React, Backend, JS**
