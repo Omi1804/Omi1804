@@ -13,7 +13,7 @@ That's why I like to make things that make a difference.
 
 - 🔭 I’m currently working on **The Adz Plug**
 - 🌱 I’m currently learning **React Native, TypeScript, System Design**
-- 👨‍💻 All of my projects are available at **[Portfolio](https://om-nigam.netlify.app)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://www.devomini.com)**
 - 💬 Ask me about **React, Backend, JS**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/om-nigam-64247323b/)**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1i5D8aEj-tiWz_M8ceN3yFvDG9OxsQUGe/view)**
