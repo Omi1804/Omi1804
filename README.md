@@ -1,4 +1,4 @@
-# Welcome to [Om Nigam’s](https://om-nigam.netlify.app/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Welcome to [Om Nigam’s](https://www.devomini.com) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
 I am a full-stack MERN software developer. I love programming, reading, writing, and speaking.
