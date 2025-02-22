@@ -11,15 +11,11 @@ That's why I like to make things that make a difference.
 
 ## Talking about Personal Stuffs
 
-- 🔭 I’m currently working on **The Adz Plug**
-- 🌱 I’m currently learning **React Native, TypeScript, System Design**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://www.devomini.com)**
-- 💬 Ask me about **React, Backend, JS**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/om-nigam-64247323b/)**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1i5D8aEj-tiWz_M8ceN3yFvDG9OxsQUGe/view)**
-- ⚡ Fun fact: **I love to code in JavaScript 🤭**
 
-## Glad to see you here!
+# Glad to see you here!
 
 ### Connect with me :
 <h3 align="left"></h3>
@@ -29,12 +25,6 @@ That's why I like to make things that make a difference.
 &nbsp;
 <a href="https://www.facebook.com/om.nigam.7146" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=“Om “Nigam height="30" width="40" /></a>
 &nbsp;
-
-### Visitor's Count :
-<a align="center" href="https://profile-counter.glitch.me/{shubhi182001}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{omi1804}/count.svg)  
-</a>
 
 
 ## 🛠️ My Favorite Tools
@@ -80,30 +70,3 @@ That's why I like to make things that make a difference.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 
-
-
-## Github Activity :
-<table>
-  <tr>
-    <td width="50%">
-        <img align="left" alt="Coding" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="100%">
-    </td>
-    <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omi1804&theme=radical&layout=compact&hide=Jupyter%20Notebook" width="100%">
-    </td>
-  </tr>
-  <tr>
-          <td><img src="https://github-readme-stats.vercel.app/api?username=omi1804&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=omi1804&theme=tokyonight" width="100%">
-    </td>
-  </tr>
-</table>
-
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
