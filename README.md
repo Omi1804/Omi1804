@@ -7,10 +7,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and my un
 
 That's why I like to make things that make a difference.
 
-<img align="right" align="bottom" alt="Coder GIF" height=275 width=368 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" style={{zIndex:100}}/>
-
-
-## Talking about Personal Stuffs
+<img align="right" align="bottom" alt="Coder GIF" height=250 width=368 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" style={{zIndex:100}}/>
 
 <br/>
 
@@ -19,8 +16,6 @@ That's why I like to make things that make a difference.
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1i5D8aEj-tiWz_M8ceN3yFvDG9OxsQUGe/view)**
 
 <br/>
-
-# Glad to see you here!
 
 ### Connect with me :
 <h3 align="left"></h3>
@@ -31,6 +26,8 @@ That's why I like to make things that make a difference.
 <a href="https://www.facebook.com/om.nigam.7146" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=“Om “Nigam height="30" width="40" /></a>
 &nbsp;
 
+<br/>
+<br/>
 
 ## 🛠️ My Favorite Tools
 
